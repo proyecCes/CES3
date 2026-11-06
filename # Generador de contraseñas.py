@@ -1,6 +1,6 @@
 # Generador de contraseñas
 # Combina letras, números y símbolos usando el módulo secrets.
-# prueba
+# pruebasss
 
 import secrets
 import string
